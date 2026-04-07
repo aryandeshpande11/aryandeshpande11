@@ -1,10 +1,10 @@
-# Hello, folks! I'm Aryan Deshpande.
+# Hello, folks! 👋 I'm Aryan Deshpande.
 
 ### Full Stack Developer · 2nd Year IT Engineering @ PICT Pune · CGPA 9.5
 
 ---
 
-## Profile
+##👤 Profile
 
 - **Name:** Aryan Deshpande  
 - **College:** Pune Institute of Computer Technology  
@@ -45,7 +45,7 @@ I focus on writing clean, modular, and maintainable code while continuously impr
 
 ---
 
-## Tech Stack
+##🛠️ Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -98,11 +98,9 @@ I focus on writing clean, modular, and maintainable code while continuously impr
 
 ## Let's Connect
 
-- GitHub: https://github.com/aryandeshpande11  
+-- LinkedIn: [aryan-deshpande](https://www.linkedin.com/in/aryan-deshpande-a94463351)
 - Open to collaboration on Full Stack Projects  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryandeshpande11&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
